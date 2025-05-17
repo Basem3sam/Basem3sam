@@ -1,4 +1,4 @@
-# Hi there, I'm Basem Esam! 👋  
+# Hi, I'm Basem Esam!
 
 Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal University, Faculty of Computer Science and Information**. Always learning and striving to improve, I'm exploring the endless possibilities of code! 🚀  
 
@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 
 ## 👨‍💻 About Me  
 - 🎓 **Student:** SCU, Faculty of Computer Science and Information  
-- 🏆 **Competitive Programmer:** Member of **ICPC**  
-- 💼 **HR Role:** Part of the **Mech Hackers** team at college  
+- 🏆 **Competitive Programmer:** Member of **ICPC**
+- 👨‍🏫 **Instructor:** Teaching Object-oriented programming (OOP) in **GDG**
+- 💼 **HR Role:** Part of the **GDG** and **Mech Hackers** teams at college  
 - 🌱 Currently learning and honing my skills in various tech stacks  
 - 🌟 **Passionate About:** Data structures, algorithms, and building efficient solutions  
 
@@ -15,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 
 ## 🛠️ Tech Stack  
 - **Languages:** C++, C, PHP, Python, JavaScript, Java, HTML, CSS  
-- **Databases:** MySQL  
+- **Databases:** MySQL, SQLserver, MongoDB
 - **CS Topics:** Data structures, algorithms, and problem-solving  
-- **Tools:** Visual Studio Code, Git  
+- **Tools:** VSCode, Git  
 
 ---
 
@@ -29,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 
 ## 🌐 Connect with Me  
 - 📧 Email: [basemesam100@gmail.com](mailto:basemesam100@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/basem-esam](https://www.linkedin.com/in/basem-esam-b5968328a)  
+- 💼 LinkedIn: [linkedin.com/in/basem-esam](https://www.linkedin.com/in/BasemEsam)  
 
 ---
 
