@@ -1,44 +1,47 @@
-# Hi, I'm Basem Esam!
+## Basem Esam
 
-Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal University, Faculty of Computer Science and Information**. Always learning and striving to improve, I'm exploring the endless possibilities of code! 🚀  
+Computer Science student at **SCU - FCI**, with a strong focus on algorithms, data structures, and clean software design.
 
----
-
-## 👨‍💻 About Me  
-- 🎓 **Student:** SCU, Faculty of Computer Science and Information  
-- 🏆 **Competitive Programmer:** Member of **ICPC**
-- 👨‍🏫 **Instructor:** Teaching Object-oriented programming (OOP) in **GDG**
-- 💼 **HR Role:** Part of the **GDG** and **Mech Hackers** teams at college  
-- 🌱 Currently learning and honing my skills in various tech stacks  
-- 🌟 **Passionate About:** Data structures, algorithms, and building efficient solutions  
+Competitive programmer (ICPC), OOP instructor at GDG, and active contributor to tech communities like Mech Hackers.  
+Driven by curiosity, collaboration, and building efficient, scalable solutions.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C++, C, PHP, Python, JavaScript, Java, HTML, CSS  
-- **Databases:** MySQL, SQLserver, MongoDB
-- **CS Topics:** Data structures, algorithms, and problem-solving  
-- **Tools:** VSCode, Git, GitHub  
+## 👨‍💻 About Me
+
+- 🎓 **Student** at SCU, Faculty of Computer Science and Information
+- 🏆 **Competitive Programmer** — Member of **ICPC**
+- 👨‍🏫 **Instructor** — Teaching Object-Oriented Programming (OOP) at **GDG**
+- 💼 **HR Team Member** — Active in **GDG** and **Mech Hackers**
+- 🌱 Currently sharpening skills in multiple tech stacks specially **Back-End**
+- 🌟 **Love For** — Data structures, algorithms, and building efficient solutions
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Tech Stack
 
-### 🔥 Contribution Activity
-![Basem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basem3sam&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-### 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basem3sam&layout=compact&theme=radical&hide_border=true)
-
-### 🔁 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Basem3sam&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- **Languages:** C++, C, PHP, Python, JavaScript, Java, HTML, CSS
+- **Databases:** MySQL, SQL Server, MongoDB
+- **CS Fundamentals:** Data structures, algorithms, problem-solving
+- **Tools:** VS Code, Git, GitHub
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 Email: [basemesam100@gmail.com](mailto:basemesam100@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/basem-esam](https://www.linkedin.com/in/BasemEsam)  
+## 📊 GitHub Stats
+
+![Basem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basem3sam&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basem3sam&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Basem3sam&theme=radical)
 
 ---
 
-_“Strive for progress, not perfection.”_ ✨
+## 🌐 Connect with Me
+
+- 📧 **Email:** [basemesam100@gmail.com](mailto:basemesam100@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/BasemEsam](https://www.linkedin.com/in/BasemEsam)
+
+---
+
+> _"Strive for progress, not perfection."_ ✨
