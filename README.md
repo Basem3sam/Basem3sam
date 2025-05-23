@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 - **Languages:** C++, C, PHP, Python, JavaScript, Java, HTML, CSS  
 - **Databases:** MySQL, SQLserver, MongoDB
 - **CS Topics:** Data structures, algorithms, and problem-solving  
-- **Tools:** VSCode, Git  
+- **Tools:** VSCode, Git, GitHub  
 
 ---
 
@@ -34,4 +34,4 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 
 ---
 
-_“Strive for progress, not perfection.”_ 😊  
+_“Strive for progress, not perfection.”_ ✨
