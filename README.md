@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate student developer at **Suez Canal
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basem3sam&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basem3sam&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basem3sam&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basem3sam&layout=compact&theme=radical)  
 
 ---
 
