@@ -39,7 +39,7 @@ Driven by curiosity, collaboration, and building efficient, scalable solutions.
 
 ## 🌐 Connect with Me
 
-- 📧 **Email:** [basemesam100@gmail.com](mailto:basemesam100@gmail.com)
+- 📧 **Email:** [basem.esam.omargmail.com](mailto:basem.esam.omar@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/BasemEsam](https://www.linkedin.com/in/BasemEsam)
 
 ---
