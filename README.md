@@ -43,7 +43,7 @@ Driven by curiosity, clean code principles, and a passion for building scalable 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="200px" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=basem3sam&theme=dark&hide_border=true" height="200px" />
 </p>
 
