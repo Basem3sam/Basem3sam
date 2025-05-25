@@ -7,7 +7,13 @@ Driven by curiosity, clean code principles, and a passion for building scalable 
 ---
 
 # 💫 About Me:
-🎓 Computer Science Student @ SCU<br>🏆 Competitive Programmer — ICPC Team Member<br>👨‍🏫 Instructor — Teaching Object-Oriented Programming at GDG<br>💼 HR Team Member — Active with GDG & Mech Hackers<br>🌱 Currently Exploring: Backend Development & Diverse Tech Stacks<br>🌟 Passionate About: Data Structures, Algorithms & Building Scalable Solutions<br>💬 Always eager to learn, connect, and collaborate with like-minded individuals.
+🎓 Computer Science Student @ SCU  
+🏆 Competitive Programmer — ICPC Team Member  
+👨‍🏫 Instructor — Teaching Object-Oriented Programming at GDG  
+💼 HR Team Member — Active with GDG & Mech Hackers  
+🌱 Currently Exploring: Backend Development & Diverse Tech Stacks  
+🌟 Passionate About: Data Structures, Algorithms & Building Scalable Solutions  
+💬 Always eager to learn, connect, and collaborate with like-minded individuals.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BasemEsam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BasemEsam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27366203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basem.esam.omar@gmail.com) 
