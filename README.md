@@ -1,9 +1,8 @@
-## Basem Esam
+## Basem Esam  
+**Backend-Focused Developer | Competitive Programmer | Tech Educator**
 
-Computer Science student at **SCU - FCI**, with a strong focus on algorithms, data structures, and clean software design.
-
-Competitive programmer (ICPC), OOP instructor at GDG, and active contributor to tech communities like Mech Hackers.  
-Driven by curiosity, collaboration, and building efficient, scalable solutions.
+Competitive programmer (ICPC), OOP instructor at GDG, and active community contributor (Mech Hackers & GDG).  
+Fueled by curiosity, a love for clean code, and a passion for scalable back-end solutions.
 
 ---
 
