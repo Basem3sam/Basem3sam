@@ -6,17 +6,26 @@ Driven by curiosity, clean code principles, and a passion for building scalable 
 
 ---
 
-# 💫 About Me:
+## 💫 About Me  
 🎓 Computer Science Student @ SCU  
 🏆 Competitive Programmer — ICPC Team Member  
 👨‍🏫 Instructor — Teaching Object-Oriented Programming at GDG  
 💼 HR Team Member — Active with GDG & Mech Hackers  
 🌱 Currently Exploring: Backend Development & Diverse Tech Stacks  
 🌟 Passionate About: Data Structures, Algorithms & Building Scalable Solutions  
-💬 Always eager to learn, connect, and collaborate with like-minded individuals.
+💬 Always eager to learn, connect, and collaborate with like-minded individuals.  
+🚀 Looking forward to building impactful projects and growing as a backend engineer.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BasemEsam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BasemEsam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27366203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basem.esam.omar@gmail.com) 
+## 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/BasemEsam"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/BasemEsam"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/27366203"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:basem.esam.omar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ### 🧰 Tech Stack
 
@@ -31,18 +40,23 @@ Driven by curiosity, clean code principles, and a passion for building scalable 
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |  |  |  |  |  |  |
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |  |  |  |  |  |  |
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="200px" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=basem3sam&theme=dark&hide_border=true" height="200px" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basem3sam&theme=dark&hide_border=true&layout=compact" width="60%" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
