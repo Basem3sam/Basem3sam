@@ -1,33 +1,46 @@
-## Basem Esam  
-**Backend-Focused Developer | Competitive Programmer | Tech Educator**
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving Hand" />
+  <strong>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!</strong>
+</h2>
 
-Competitive programmer (ICPC), OOP instructor at GDG, and active community contributor (Mech Hackers & GDG).  
-Driven by curiosity, clean code principles, and a passion for building scalable back-end systems.
+<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="Programmer at Work Gif" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Basem+Esam!;Backend+Developer;Competitive+Programmer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I'm <strong>Basem Esam</strong> — a passionate <strong>Backend Developer</strong>, competitive programmer, and tech community contributor.<br/>
+  I thrive on clean code, problem-solving, and building scalable backend architectures.
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/BasemEsam">
+    <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=basem3sam&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/basem3sam">
+    <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
+  </a>
+</div>
 
 ---
 
-## 💫 About Me  
-🎓 Computer Science Student @ SCU  
-🏆 Competitive Programmer — ICPC Team Member  
-👨‍🏫 Instructor — Teaching Object-Oriented Programming at GDG  
-💼 HR Team Member — Active with GDG & Mech Hackers  
-🌱 Currently Exploring: Backend Development & Diverse Tech Stacks  
-🌟 Passionate About: Data Structures, Algorithms & Building Scalable Solutions  
-💬 Always eager to learn, connect, and collaborate with like-minded individuals.  
-🚀 Looking forward to building impactful projects and growing as a backend engineer.
+## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif">
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://linkedin.com/in/BasemEsam"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://reddit.com/user/BasemEsam"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/27366203"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:basem.esam.omar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" alt="Coding Gif" />
 
-### 🧰 Tech Stack
+🎓 **Computer Science Student** @ [Suez Canal University (SCU)](https://suez.edu.eg/ar/en/)  
+🏆 **Competitive Programmer** — ICPC Team Member  
+👨‍🏫 **Instructor** — Teaching Object-Oriented Programming @ [GDG](https://gdg.community.dev/)  
+💼 **Community Contributor** — Active with GDG & Mech Hackers in HR and organizational roles  
+🛠️ **Core Skills**: Python, Java, REST APIs, Databases, System Design  
+🌱 **Currently Exploring**: Advanced Backend Development & Distributed Systems  
+📚 **Interested In**: Clean Architecture, DevOps, and Cloud Services  
+💬 **Always Open** to collaboration, learning, and meaningful tech discussions  
+🚀 **Driven By**: Purposeful coding, growth, and the joy of building impactful software
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Animation"> Tech Stack
 
 | Languages | Frameworks & Libraries | Databases | Cloud & DevOps | Tools & Platforms | Data Science | Markup & Styling |
 |---|---|---|---|---|---|---|
@@ -40,25 +53,39 @@ Driven by curiosity, clean code principles, and a passion for building scalable 
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |  |  |  |  |  |  |
 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |  |  |  |  |  |  |
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="180" style="vertical-align: middle;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=basem3sam&theme=dark&hide_border=true" height="180" style="vertical-align: middle;" />
-</div>
+## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" alt="Stats Icon"> GitHub Stats
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basem3sam&theme=dark&hide_border=true&layout=compact" width="60%" />
-</div>
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=basem3sam&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Basem's GitHub Stats" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basem3sam&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages Used" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=basem3sam&theme=darcula&hide_border=true&background=FFFFFF00" alt="GitHub Streak Stats" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy Showcase" />
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
+</p>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake Gif"> Socials
+<p align="center">
+  <a href="https://linkedin.com/in/BasemEsam">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://reddit.com/user/BasemEsam">
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/27366203">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:basem.esam.omar@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
