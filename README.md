@@ -18,11 +18,11 @@ Fueled by curiosity, a love for clean code, and a passion for scalable back-end 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=basem3sam&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=basem3sam&theme=dark&hide_border=true" width="45%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basem3sam&theme=dark&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basem3sam&theme=dark&hide_border=true&layout=compact" width="60%" />
 </p>
 
 ## 🏆 GitHub Trophies
