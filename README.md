@@ -26,19 +26,21 @@
 
 ---
 
-## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif">
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif"> A little more about me...
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" style="margin-right: 15px;" alt="Coding Gif" />
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="220" alt="Coding Gif" />
 
-🎓 **Computer Science Student** @ [Suez Canal University (SCU)](https://suez.edu.eg/ar/en/)  
-🏆 **Competitive Programmer** — ICPC Team Member  
-👨‍🏫 **Instructor** — Teaching Object-Oriented Programming @ [GDG](https://gdg.community.dev/)  
-💼 **Community Contributor** — Active with GDG & Mech Hackers in HR and organizational roles  
-🛠️ **Core Skills**: Python, Java, REST APIs, Databases, System Design  
-🌱 **Currently Exploring**: Advanced Backend Development & Distributed Systems  
-📚 **Interested In**: Clean Architecture, DevOps, and Cloud Services  
-💬 **Always Open** to collaboration, learning, and meaningful tech discussions  
-🚀 **Driven By**: Purposeful coding, growth, and the joy of building impactful software
+&#8202;  🎓 **Computer Science Student** @ [Suez Canal University (SCU)](https://suez.edu.eg/ar/en/)  
+&#8202;  🏆 **Competitive Programmer** — ICPC Team Member  
+&#8202;  👨‍🏫 **Instructor** — Teaching Object-Oriented Programming @ [GDG](https://gdg.community.dev/)  
+&#8202;  💼 **Community Contributor** — Active with GDG & Mech Hackers in HR and organizational roles  
+&#8202;  🛠️ **Core Skills**: Python, Java, REST APIs, Databases, System Design  
+&#8202;  🌱 **Currently Exploring**: Advanced Backend Development & Distributed Systems  
+&#8202;  📚 **Interested In**: Clean Architecture, DevOps, and Cloud Services  
+&#8202;  💬 **Always Open** to collaboration, learning, and meaningful tech discussions  
+&#8202;  🚀 **Driven By**: Purposeful coding, growth, and the joy of building impactful software 
+
+I’m passionate about growing, sharing ideas, and working on projects that matter. If you’re up for a chat or collaboration, let’s connect! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving Gif" />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Animation"> Tech Stack
 
