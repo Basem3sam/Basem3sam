@@ -39,7 +39,7 @@ My journey in tech is driven by a passion for creating robust and efficient solu
 
 ### Skills & Interests:
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="150" alt="Cat Coding Gif" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="180" alt="Cat Coding Gif" />
 <p align="left">
   
 * 💻 **Core Skills**: Python, Java, JavaScript (Node.js, Express.js), REST APIs, MongoDB, MySQL, System Design.
