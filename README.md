@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif"> A little more about me...
+## A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif">
 
 <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="190" alt="Coding Gif" />
 
@@ -40,7 +40,7 @@
 &#8202;  💬 **Always Open** to collaboration, learning, and meaningful tech discussions  
 &#8202;  🚀 **Driven By**: Purposeful coding, growth, and the joy of building impactful software 
 
-Love coding, learning, and good coffee ☕. Always up for a friendly chat or exciting collab! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="Waving Gif" />
+Love coding, learning, and good coffee ☕. Always up for a friendly chat or exciting collab! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" alt="Waving Gif" />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Animation"> Tech Stack
 
