@@ -28,7 +28,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif"> A little more about me...
 
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="220" alt="Coding Gif" />
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" alt="Coding Gif" />
 
 &#8202;  🎓 **Computer Science Student** @ [Suez Canal University (SCU)](https://suez.edu.eg/ar/en/)  
 &#8202;  🏆 **Competitive Programmer** — ICPC Team Member  
