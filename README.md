@@ -40,7 +40,7 @@
 &#8202;  💬 **Always Open** to collaboration, learning, and meaningful tech discussions  
 &#8202;  🚀 **Driven By**: Purposeful coding, growth, and the joy of building impactful software 
 
-Love coding, learning, and good coffee ☕. Always up for a friendly chat or exciting collab! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" alt="Waving Gif" />
+Love coding, learning, and good coffee ☕. Always up for a chat, collaboration, or just sharing cool ideas and stories! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" alt="Waving Gif" />
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Animation"> Tech Stack
 
