@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="left">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving Hand" />
   <strong>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!</strong>
 </h2>
