@@ -76,11 +76,11 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Tech Stack Animation"> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Tech Stack Animation"> Tech Stack & Tools
 
 <div align="center">
 
-#### 🚀 Core Technologies
+### Core Technologies <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGcyMm02OXdrNTJ1ZGxnczloa3hseDl3dTdydGNiajNkaTlmOG5sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="40" alt="Computer old" />
 
 <table>
 <tr>
@@ -237,24 +237,20 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 ---
 
-#### 🎯 Proficiency Levels
-
 <div align="center">
 
-```text
-┌─────────────────────┬───────────────────┬──────────────┐
-│ Technology          │ Proficiency       │ Level        │
-├─────────────────────┼───────────────────┼──────────────┤
-│ JavaScript/TS       │ ██████████ (100%) │ Expert       │
-│ Node.js & Express   │ ██████████ (100%) │ Expert       │
-│ Python              │ ████████░░ (80%)  │ Advanced     │
-│ React               │ ████████░░ (80%)  │ Advanced     │
-│ MongoDB & MySQL     │ ████████░░ (80%)  │ Advanced     │
-│ C++ (Competitive)   │ ████████░░ (80%)  │ Advanced     │
-│ AWS & Cloud         │ ██████░░░░ (60%)  │ Intermediate │
-│ Docker & DevOps     │ █████░░░░░ (50%)  │ Intermediate │
-└─────────────────────┴───────────────────┴──────────────┘
-```
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUwa2oweWp4cDZicW1zYnRjc2xvbjBvZGRqenQ4NGNrbm04Z2M0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="35" alt="Target"> Proficiency Levels
+
+| Technology          | Proficiency         | Level        |
+|---------------------|----------------------|--------------|
+| JavaScript / TypeScrypt | ██████████ 100%      | Expert       |
+| Node.js & Express   | ██████████ 100%      | Expert       |
+| Python              | ████████░░ 80%       | Advanced     |
+| React               | ████████░░ 80%       | Advanced     |
+| MongoDB & MySQL     | ████████░░ 80%       | Advanced     |
+| C++ (Competitive)   | ████████░░ 80%       | Advanced     |
+| AWS & Cloud         | ██████░░░░ 60%       | Intermediate |
+| Docker & DevOps     | █████░░░░░ 50%       | Intermediate |
 
 </div>
 
@@ -264,62 +260,100 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 <div align="center">
   
-### 📊 Profile Overview
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpuaGFlaTBsbndpd2V3Mmc4ejgzejd4OGs1amhiNDBpdGhnampsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vAFG6UHl9XmTHTq1Ll/giphy.gif" width="40" alt="Heart" /> Profile Overview <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpuaGFlaTBsbndpd2V3Mmc4ejgzejd4OGs1amhiNDBpdGhnampsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vAFG6UHl9XmTHTq1Ll/giphy.gif" width="40" alt="Heart" />
   
 <p align="center">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basem3sam&theme=tokyonight" alt="GitHub Stats" />
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basem3sam&theme=tokyonight" alt="Productive Time" />
 </p>
 
-### 💻 Language Statistics
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRxYjlkb2h1ejZvYml5emxqZW8wdnF2MnBodzBhYndyenZ1d3V5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y9gh6Qx2ypripcQgxh/giphy.gif" width="40" alt="Computer work" /> Language Statistics <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRxYjlkb2h1ejZvYml5emxqZW8wdnF2MnBodzBhYndyenZ1d3V5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y9gh6Qx2ypripcQgxh/giphy.gif" width="40" alt="Computer work" />
 
 <p align="center">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Commit" />
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
-### 📈 Contribution Activity
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno1bTM0cHpkYjI3YnRsZXZpNjFibmhmdHMxczl4YzRibG41Y2dweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nqmruRgwwyT1BaFKPh/giphy.gif" width="40" alt="CD"> Contribution Activity <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno1bTM0cHpkYjI3YnRsZXZpNjFibmhmdHMxczl4YzRibG41Y2dweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nqmruRgwwyT1BaFKPh/giphy.gif" width="40" alt="CD">
 
 <p align="center">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basem3sam&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
-### 🔥 GitHub Streak
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" /> GitHub Streak <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" />
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=basem3sam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/> <span style="font-weight: bold;">GitHub Trophies</span> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster">
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy Showcase" />
 </p>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy Showcase" />
-</p>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMzeGw2c2QxaGM0Y2gxamMycDV1cnkzdWVydGFidHlkdWlnMWg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/sBWYQIHVeB0tTWLKDY/giphy.gif" width="40" alt="message"> Random Dev Quote
 
----
-
-### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" style="max-width: 100%;" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Handshake Gif"> Socials
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55" alt="Handshake Gif"> Socials
+
 <p align="center">
-  <a href="https://linkedin.com/in/BasemEsam">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/basem3sam" target="_blank">
+    <img alt="X (Twitter)" 
+         src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="https://reddit.com/user/BasemEsam">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" />
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/BasemEsam" target="_blank">
+    <img alt="LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/27366203">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+
+  <!-- GitHub -->
+  <a href="https://github.com/basem3sam" target="_blank">
+    <img alt="GitHub" 
+         src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:basem.esam.omar@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Basem_Esam/" target="_blank">
+    <img alt="LeetCode"
+         src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/BasemEsam" target="_blank">
+    <img alt="Codeforces"
+         src="https://img.shields.io/badge/Codeforces-%230066CC.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <!-- Reddit -->
+  <a href="https://reddit.com/user/BasemEsam" target="_blank">
+    <img alt="Reddit" 
+         src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/27366203" target="_blank">
+    <img alt="Stack Overflow" 
+         src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:basem.esam.omar@gmail.com" target="_blank">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
