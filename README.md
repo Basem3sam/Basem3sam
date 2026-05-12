@@ -18,8 +18,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/BasemEsam">
-    <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+    <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <img src="https://komarev.com/ghpvc/?username=basem3sam&label=Profile+Views" alt="Profile Views" />
   <a href="https://github.com/basem3sam">
     <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
@@ -32,51 +31,56 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Thinking Gif"> A Little More About Me...
 
-I'm a passionate software engineer who believes great code tells a story. My journey blends **competitive programming precision** with **full-stack creativity**, building solutions that are both elegant under the hood and impactful in practice. Currently mastering the **MERN stack** while staying active in the competitive programming arena, I thrive at the intersection of algorithmic thinking and real-world application development.
+<div align="center">
 
-### Professional & Academic Journey
+<table>
+<tr>
+<td width="65%" align="left">
 
-* 🎓 **Computer Science Student** at [Suez Canal University (SCU)](https://suez.edu.eg/ar/en/) — Building a strong theoretical foundation while applying it to real-world challenges
-* 🏆 **Competitive Programmer** — ICPC Team Member sharpening algorithmic skills and problem-solving under pressure
-* 👨‍🏫 **OOP Instructor** at [GDG](https://gdg.community.dev/) — Empowering the next generation of developers by making complex concepts accessible
-* 💼 **Vice IT Head** at TROSC (SCU Student Club) — Leading technical initiatives and innovation within the university community
-* 🤝 **Community Leader** — Driving growth and collaboration as an HR & organizational lead in [GDG](https://gdg.community.dev/) and Mech Hackers
+```javascript
+// always learning, always building
 
-### Technical Arsenal & Focus Areas
+const BasemEsam = {
+  role: 'Backend Developer',
+  education: 'CS @ Suez Canal University',
+  focus: ['MERN Stack', 'Competitive Programming'],
 
-<picture>
-  <source media="(max-width: 768px)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="100%">
-  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="250" alt="Cat Coding Gif" />
-</picture>
+  community: ['GDG OOP Instructor', 'ICPC Member', 'TROSC Vice IT Head'],
 
-**Core Technologies:**
-* **Languages**: Python, Java, JavaScript (Node.js)
-* **Backend**: Express.js, REST APIs, System Design
-* **Databases**: MongoDB, MySQL
-* **Currently Mastering**: Full **MERN Stack** (MongoDB, Express.js, React, Node.js)
+  stack: {
+    languages: ['JavaScript', 'TypeScript', 'Python', 'C++'],
+    backend: ['Node.js', 'Express.js', 'REST APIs'],
+    frontend: ['React', 'TailwindCSS'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis'],
+    devops: ['Docker', 'AWS', 'Nginx'],
+  },
 
-**Areas of Interest:**
-* 🏗️ Clean Architecture & Design Patterns
-* ☁️ DevOps & Cloud Infrastructure
-* 🔄 Scalable System Design
-* 🧩 Algorithmic Problem Solving
+  contact: () => 'basem.esam.omar@gmail.com',
+};
+```
 
-### What Drives Me
+</td>
 
-I code with **purpose**. Whether it's optimizing an algorithm for milliseconds, architecting a clean backend, or building an intuitive user experience, I believe every line should serve a reason. I'm constantly learning, always curious, and deeply committed to writing code that doesn't just work—but works beautifully.
+<td width="35%" align="center">
 
-### Let's Connect!
+<img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"
+  width="260"
+  alt="Cat Coding Gif"
+/>
 
-Love coding, learning, and good coffee ☕. Always up for:
-* 💼 Collaborating on meaningful projects
-* 💡 Exchanging ideas about tech, architecture, or that tricky algorithm
-* 🗣️ Casual conversations about the craft of software engineering
+</td>
+</tr>
+</table>
+
+</div>
 
 Feel free to reach out—whether it's about a project, a problem, or just to share something cool you've built! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" alt="Waving Gif" />
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Tech Stack Animation"> Tech Stack & Tools
+<details>
+<summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Tech Stack Animation"> Tech Stack & Tools</b></summary>
 
 <div align="center">
 
@@ -235,28 +239,29 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 </div>
 
----
-
 <div align="center">
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUwa2oweWp4cDZicW1zYnRjc2xvbjBvZGRqenQ4NGNrbm04Z2M0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="35" alt="Target"> Proficiency Levels
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUwa2oweWp4cDZicW1zYnRjc2xvbjBvZGRqenQ4NGNrbm04Z2M0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="35" alt="Target"> Proficiency Levels
 
-| Technology          | Proficiency         | Level        |
-|---------------------|----------------------|--------------|
-| JavaScript / TypeScript | ██████████ 100%      | Proficient   |
-| Node.js & Express   | ██████████ 100%      | Proficient   |
-| Python              | ████████░░ 80%       | Advanced     |
-| React               | ████████░░ 80%       | Advanced     |
-| MongoDB & MySQL     | ████████░░ 80%       | Advanced     |
-| C++ (Competitive)   | ████████░░ 80%       | Advanced     |
-| AWS & Cloud         | ██████░░░░ 60%       | Intermediate |
-| Docker & DevOps     | █████░░░░░ 50%       | Intermediate |
+| Technology              | Proficiency     | Level        |
+| ----------------------- | --------------- | ------------ |
+| JavaScript / TypeScript | ██████████ 100% | Proficient   |
+| Node.js & Express       | ██████████ 100% | Proficient   |
+| Python                  | ████████░░ 80%  | Advanced     |
+| React                   | ████████░░ 80%  | Advanced     |
+| MongoDB & MySQL         | ████████░░ 80%  | Advanced     |
+| C++ (Competitive)       | ████████░░ 80%  | Advanced     |
+| AWS & Cloud             | ██████░░░░ 60%  | Intermediate |
+| Docker & DevOps         | █████░░░░░ 50%  | Intermediate |
 
 </div>
+</details>
 
 ---
 
-## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" alt="Stats Icon"> GitHub Statistics
+<details>
+<summary><b>
+<img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" alt="Stats Icon"> GitHub Statistics</b></summary>
 
 <div align="center">
   
@@ -293,6 +298,7 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 </p>
 
 </div>
+</details>
 
 ---
 
