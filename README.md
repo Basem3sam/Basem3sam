@@ -243,8 +243,8 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 | Technology          | Proficiency         | Level        |
 |---------------------|----------------------|--------------|
-| JavaScript / TypeScrypt | ██████████ 100%      | Expert       |
-| Node.js & Express   | ██████████ 100%      | Expert       |
+| JavaScript / TypeScript | ██████████ 100%      | Proficient   |
+| Node.js & Express   | ██████████ 100%      | Proficient   |
 | Python              | ████████░░ 80%       | Advanced     |
 | React               | ████████░░ 80%       | Advanced     |
 | MongoDB & MySQL     | ████████░░ 80%       | Advanced     |
@@ -283,7 +283,7 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" /> GitHub Streak <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" />
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=basem3sam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=basem3sam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/> <span style="font-weight: bold;">GitHub Trophies</span> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster">
