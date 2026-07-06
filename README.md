@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
   </a>
   
-  🌐 **Portfolio:** [BasemEsam](https://basemesam.netlify.app)
+  🌐 **Portfolio:** [BasemEsam](https://basemesam.vercel.app)
 </div>
 
 ---
