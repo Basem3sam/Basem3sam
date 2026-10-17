@@ -4,12 +4,12 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Basem+Esam!;Backend+Developer;Competitive+Programmer;MERN+Stack+Enthusiast" alt="Typing SVG" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Basem+Esam!;Backend+Developer;Competitive+Programmer;Node.js+%7C+NestJS+%7C+MongoDB+%7C+Postgres" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
-  I'm <strong>Basem Esam</strong> — a passionate <strong>Backend Developer</strong>, competitive programmer, and tech community contributor. My current focus is mastering the <strong>MERN Stack</strong> to build dynamic and responsive web applications.<br/>
-  I thrive on clean code, problem-solving, and building scalable backend architectures.
+  I'm <strong>Basem Esam</strong>, a 4th-year CS student at Suez Canal University who builds backends for a living (well, for clubs, clients and class projects, for now).<br/>
+  I'm the <strong>IT Head & Backend Lead at Trosc</strong>, I teach <strong>OOP at GDG SCU</strong>, and when I'm not shipping APIs you'll find me on Codeforces.
 </p>
 
 <div align="center">
@@ -19,8 +19,8 @@
   <a href="https://github.com/basem3sam">
     <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
   </a>
-  
-  🌐 **Portfolio:** [BasemEsam](https://basemesam.vercel.app)
+
+  🌐 **Portfolio:** [basemesam.vercel.app](https://basemesam.vercel.app)
 
 </div>
 
@@ -39,20 +39,22 @@
 
 const BasemEsam = {
   role: 'Backend Developer',
-  education: 'CS @ Suez Canal University',
-  focus: ['MERN Stack', 'Competitive Programming'],
+  education: 'CS @ Suez Canal University (class of 2027)',
 
-  community: ['GDG OOP Instructor', 'ICPC Member', 'TROSC Vice IT Head'],
-
-  stack: {
-    languages: ['JavaScript', 'TypeScript', 'Python', 'C++'],
-    backend: ['Node.js', 'Express.js', 'REST APIs'],
-    frontend: ['React', 'TailwindCSS'],
-    databases: ['MongoDB', 'MySQL', 'PostgreSQL', 'Redis'],
-    devops: ['Docker', 'AWS', 'Nginx'],
+  now: {
+    trosc: 'IT Head & Backend Lead',
+    gdg: 'OOP Instructor',
+    icpc: 'Member',
   },
 
-  contact: () => 'basem.esam.omar@gmail.com',
+  stack: {
+    daily: ['Node.js', 'Express', 'MongoDB', 'TypeScript'],
+    levelingUp: ['NestJS', 'Prisma', 'PostgreSQL', 'Docker'],
+    frontend: ['React', 'TailwindCSS'],
+    cp: ['C++', 'Python'],
+  },
+
+  lookingFor: 'internships, freelance builds, good teammates',
 };
 ```
 
@@ -60,7 +62,7 @@ const BasemEsam = {
 
 <td width="35%" align="center">
 
-<img 
+<img
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxwb2RwNW9hY3I2cm15c21zbnAxdzk4cmwwZjU1dzV1OGFqcTR0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"
   width="260"
   alt="Cat Coding Gif"
@@ -72,11 +74,29 @@ const BasemEsam = {
 
 </div>
 
-Feel free to reach out—whether it's about a project, a problem, or just to share something cool you've built! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" alt="Waving Gif" />
+Got a project, a bug that won't die, or something cool you built? Reach out! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" alt="Waving Gif" />
 
 ---
 
-<details>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUwa2oweWp4cDZicW1zYnRjc2xvbjBvZGRqenQ4NGNrbm04Z2M0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="40" alt="Target Gif"> What I'm Building
+
+<div align="center">
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| 🎓 **[Trosc Backend](https://github.com/Basem3sam/trosc-backend)** | The API behind the Trosc student club platform: auth, courses, events, assignments, dashboard. Swagger docs + Jest/Supertest tests. Live at [trosc.vercel.app](https://trosc.vercel.app/v1) | `Node.js` `Express` `MongoDB` |
+| 🛍️ **Store Advisor** *(private, in progress)* | Multi-tenant SaaS built with a Scrum team. I own the database layer: Prisma schema, migrations, tenant isolation, CI + Docker. | `NestJS` `Prisma` `PostgreSQL` |
+| 🖨️ **Zabthalahak** *(client project)* | Arabic-first (RTL) store + admin dashboard for a 3D-printing business. Frontend done, backend next. | `React` `Node.js` `MongoDB` |
+| 🎮 **[TicTacTerminal](https://github.com/Basem3sam/TicTacTerminal)** | Tic-Tac-Toe in your terminal with AI and human players, built on clean-architecture principles. | `C++` |
+| 💘 **[elusive-love-button](https://github.com/Basem3sam/elusive-love-button)** | A "Do you love me?" page where the No button runs away from you. | `HTML` `CSS` |
+
+</div>
+
+[**See all 25 repos →**](https://github.com/Basem3sam?tab=repositories)
+
+---
+
+<details open>
 <summary><b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Tech Stack Animation"> Tech Stack & Tools</b></summary>
 
 <div align="center">
@@ -95,9 +115,37 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+<strong>Backend & APIs</strong>
+</td>
+<td>
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="140">
+<strong>Databases</strong>
+</td>
+<td>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
 </tr>
@@ -111,80 +159,7 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Backend & APIs</strong>
-</td>
-<td>
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Databases</strong>
-</td>
-<td>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Cloud & DevOps</strong>
-</td>
-<td>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Version Control & Collaboration</strong>
-</td>
-<td>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Package Managers & Build Tools</strong>
-</td>
-<td>
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 </td>
@@ -192,40 +167,28 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 <tr>
 <td align="center" width="140">
-<strong>Data Science & ML</strong>
+<strong>Testing & DevOps</strong>
 </td>
 <td>
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="140">
-<strong>Development Tools</strong>
+<strong>Tools</strong>
 </td>
 <td>
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="140">
-<strong>Other Tools</strong>
-</td>
-<td>
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -233,23 +196,6 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjUwa2oweWp4cDZicW1zYnRjc2xvbjBvZGRqenQ4NGNrbm04Z2M0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GlHV2O0IpxAsRjVsNb/giphy.gif" width="35" alt="Target"> Proficiency Levels
-
-| Technology              | Proficiency     | Level        |
-| ----------------------- | --------------- | ------------ |
-| JavaScript / TypeScript | ██████████ 100% | Proficient   |
-| Node.js & Express       | ██████████ 100% | Proficient   |
-| Python                  | ████████░░ 80%  | Advanced     |
-| React                   | ████████░░ 80%  | Advanced     |
-| MongoDB & MySQL         | ████████░░ 80%  | Advanced     |
-| C++ (Competitive)       | ████████░░ 80%  | Advanced     |
-| AWS & Cloud             | ██████░░░░ 60%  | Intermediate |
-| Docker & DevOps         | █████░░░░░ 50%  | Intermediate |
 
 </div>
 </details>
@@ -261,25 +207,25 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px" alt="Stats Icon"> GitHub Statistics</b></summary>
 
 <div align="center">
-  
+
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpuaGFlaTBsbndpd2V3Mmc4ejgzejd4OGs1amhiNDBpdGhnampsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vAFG6UHl9XmTHTq1Ll/giphy.gif" width="40" alt="Heart" /> Profile Overview <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpuaGFlaTBsbndpd2V3Mmc4ejgzejd4OGs1amhiNDBpdGhnampsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vAFG6UHl9XmTHTq1Ll/giphy.gif" width="40" alt="Heart" />
-  
+
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basem3sam&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basem3sam&theme=tokyonight" alt="Productive Time" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basem3sam&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=basem3sam&theme=tokyonight" alt="Productive Time" />
 </p>
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRxYjlkb2h1ejZvYml5emxqZW8wdnF2MnBodzBhYndyenZ1d3V5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y9gh6Qx2ypripcQgxh/giphy.gif" width="40" alt="Computer work" /> Language Statistics <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRxYjlkb2h1ejZvYml5emxqZW8wdnF2MnBodzBhYndyenZ1d3V5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y9gh6Qx2ypripcQgxh/giphy.gif" width="40" alt="Computer work" />
 
 <p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Commit" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Commit" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basem3sam&theme=tokyonight" alt="Top Languages by Repo" />
 </p>
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno1bTM0cHpkYjI3YnRsZXZpNjFibmhmdHMxczl4YzRibG41Y2dweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nqmruRgwwyT1BaFKPh/giphy.gif" width="40" alt="CD"> Contribution Activity <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno1bTM0cHpkYjI3YnRsZXZpNjFibmhmdHMxczl4YzRibG41Y2dweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nqmruRgwwyT1BaFKPh/giphy.gif" width="40" alt="CD">
 
 <p align="center">
-  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basem3sam&theme=tokyonight" alt="Contribution Graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basem3sam&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" /> GitHub Streak <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aGZ0bXVnbmM0NmI1Mm5yNTdnMzBycmp1dG41dzFpdmUwenV5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CrKIHnmJfdv3kYkuHo/giphy.gif" width="40" alt="Fire" />
@@ -288,10 +234,10 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
   <img src="https://streak-stats.demolab.com?user=basem3sam&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/> <span style="font-weight: bold;">GitHub Trophies</span> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Ster">
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Star"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/> <span style="font-weight: bold;">GitHub Trophies</span> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZ3pkYndtMmNzbTF5MHhwajh6bmRsOGFxbHkzcWlzdTYzMXB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/en5ORzU8uUSIsvElWr/giphy.gif" width="40" alt="Trophy"/><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FhM3IzbXNucjNhdzVnNnU5aGI0bGJmZmQ5djd0dGNqdmlnN3p0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p8phfH2NK03JKg4B12/source.gif" width="30" alt="Star">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy Showcase" />
+  <img src="https://github-readme-stats.vercel.app/api?username=basem3sam&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy Showcase" />
 </p>
 
 </div>
@@ -311,52 +257,36 @@ Feel free to reach out—whether it's about a project, a problem, or just to sha
 
 <p align="center">
 
-  <!-- X / Twitter -->
   <a href="https://x.com/basem3sam" target="_blank">
-    <img alt="X (Twitter)" 
-         src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/BasemEsam" target="_blank">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/basem3sam" target="_blank">
-    <img alt="GitHub" 
-         src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Basem_Esam/" target="_blank">
-    <img alt="LeetCode"
-         src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
-  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/BasemEsam" target="_blank">
-    <img alt="Codeforces"
-         src="https://img.shields.io/badge/Codeforces-%230066CC.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-%230066CC.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
-  <!-- Reddit -->
   <a href="https://reddit.com/user/BasemEsam" target="_blank">
-    <img alt="Reddit" 
-         src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 
-  <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/27366203" target="_blank">
-    <img alt="Stack Overflow" 
-         src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <a href="https://stackoverflow.com/users/31983863/basem_esam" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 
-  <!-- Email -->
   <a href="mailto:basem.esam.omar@gmail.com" target="_blank">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
