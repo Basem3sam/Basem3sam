@@ -8,15 +8,16 @@
 </p>
 
 <p align="center">
-  I'm <strong>Basem Esam</strong>, a 4th-year CS student at Suez Canal University who builds backends for a living (well, for clubs, clients and class projects, for now).<br/> I'm the <strong>IT Head & Backend Lead at Trosc</strong>, I teach <strong>OOP at GDG SCU</strong>, and when I'm not shipping APIs you'll find me on Codeforces.
+  I'm <strong>Basem Esam</strong>, a 4th-year CS student at Suez Canal University who builds backends for a living (well, for clubs, clients and class projects, for now).<br/>
+  I'm the <strong>IT Head & Backend Lead at Trosc</strong>, I teach <strong>OOP at GDG SCU</strong>, and when I'm not shipping APIs you'll find me on Codeforces.
 </p>
 
 <div align="center">
   <a href="https://linkedin.com/in/BasemEsam">
     <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <img src="https://hits.sh/github.com/Basem3sam.svg?label=Profile%20Views&color=61DAFB&labelColor=0d1117" alt="Profile Views" />
   <a href="https://github.com/basem3sam">
+    <img src="https://hits.sh/github.com/Basem3sam.svg?label=Profile%20Views&color=61DAFB&labelColor=0d1117" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
   </a>
 
@@ -86,7 +87,7 @@ Got a project, a bug that won't die, or something cool you built? Reach out! <im
 | :-- | :-- | :-- |
 | 🎓 **[Trosc Backend](https://github.com/Basem3sam/trosc-backend)** | The API behind the Trosc student club platform: auth, courses, events, assignments, dashboard. Swagger docs + Jest/Supertest tests. Live at [trosc.vercel.app](https://trosc.vercel.app/v1) | `Node.js` `Express` `MongoDB` |
 | 🛍️ **Store Advisor** *(private, in progress)* | Multi-tenant SaaS built with a Scrum team. I own the database layer: Prisma schema, migrations, tenant isolation, CI + Docker. | `NestJS` `Prisma` `PostgreSQL` |
-| 🖨️ **Zabthalahak** *(client project)* | Arabic-first (RTL) store + admin dashboard for a 3D-printing business. Frontend done, backend next. | `React` `Node.js` `MongoDB` |
+| 🖨️ **[Zabthalahak](https://zabthalahak.vercel.app/)** *(client project)* | Arabic-first (RTL) store + admin dashboard for a 3D-printing business. Frontend done, backend next. | `React` `Node.js` `MongoDB` |
 | 🎮 **[TicTacTerminal](https://github.com/Basem3sam/TicTacTerminal)** | Tic-Tac-Toe in your terminal with AI and human players, built on clean-architecture principles. | `C++` |
 | 💘 **[elusive-love-button](https://github.com/Basem3sam/elusive-love-button)** | A "Do you love me?" page where the No button runs away from you. | `HTML` `CSS` |
 
