@@ -8,14 +8,14 @@
 </p>
 
 <p align="center">
-  I'm <strong>Basem Esam</strong>, a 4th-year CS student at Suez Canal University who builds backends for a living (well, for clubs, clients and class projects, for now).<br/>
-  I'm the <strong>IT Head & Backend Lead at Trosc</strong>, I teach <strong>OOP at GDG SCU</strong>, and when I'm not shipping APIs you'll find me on Codeforces.
+  I'm <strong>Basem Esam</strong>, a 4th-year CS student at Suez Canal University who builds backends for a living (well, for clubs, clients and class projects, for now).<br/> I'm the <strong>IT Head & Backend Lead at Trosc</strong>, I teach <strong>OOP at GDG SCU</strong>, and when I'm not shipping APIs you'll find me on Codeforces.
 </p>
 
 <div align="center">
   <a href="https://linkedin.com/in/BasemEsam">
-    <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=basem3sam&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/-BasemEsam-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <img src="https://hits.sh/github.com/Basem3sam.svg?label=Profile%20Views&color=61DAFB&labelColor=0d1117" alt="Profile Views" />
   <a href="https://github.com/basem3sam">
     <img src="https://img.shields.io/github/followers/basem3sam?label=follow&style=social" alt="GitHub Followers" />
   </a>
